@@ -25,7 +25,7 @@ background: rgb(228, 58, 58);
 }
 #content{
     height:100vh;
-background: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%);
+background:rgb(228, 58, 58);
     overflow-y: auto;
 }
 #content>div{
