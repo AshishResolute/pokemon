@@ -10,7 +10,6 @@ A web-based Pokedex built using JavaScript, HTML, and CSS. This project displays
 
 ## Demo
 
-![Pokedex Screenshot](screenshot.png) <!-- Add a screenshot if available -->
 ![image](https://github.com/user-attachments/assets/aaa1b4de-46f3-4460-be41-dcf384d9138a)
 ![image](https://github.com/user-attachments/assets/ccbb9e2e-8ff4-4d20-b222-9b2dd83d428e)
 
